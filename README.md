@@ -1,5 +1,4 @@
-# Progetto Big Data Analytics e Machine Learning
-## Rilevamento cicli all'interno di grafi d'istanza
+# Rilevamento cicli all'interno di grafi d'istanza
 L'applicazione permette di rilevare cicli all'interno di grafi d'istanza.
 I grafi vengono letti da file con estensione .g.
 ## Rilevamento
