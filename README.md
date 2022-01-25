@@ -5,4 +5,4 @@ I grafi vengono letti da file con estensione .g.
 
 Due possibili opzioni di rilevamento:
 - rilevamento base, vengono individuati i cicli e disegnata un arco tra la prima e l'ultima attività del ciclo;
-- rilevamento avanzato, vengono rilevati cicli e sottoprocessi e rimpiazzati da astrazioni (approccio descritto in Bose, Aalst - Unknown - Abstractions in Process Mining A Taxonomy of Pat...)
+- rilevamento avanzato, vengono rilevati cicli e sottoprocessi e rimpiazzati da astrazioni (approccio descritto in Bose, Aalst - Unknown - Abstractions in Process Mining A Taxonomy of Pattern)
