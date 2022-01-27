@@ -1,9 +1,7 @@
 # Back end
 
-L'applicazione permette di rilevare cicli all'interno di grafi d'istanza.
-I grafi vengono letti da file con estensione .g.
-## Rilevamento
+In questa cartella sono contenuti tutti i moduli che costituiscono il back end dell'applicazione.
 
-Due possibili opzioni di rilevamento:
-- rilevamento base, vengono individuati i cicli e disegnata un arco tra la prima e l'ultima attività del ciclo;
-- rilevamento avanzato, vengono rilevati cicli e sottoprocessi e rimpiazzati da astrazioni (approccio descritto in Bose, Aalst - Unknown - Abstractions in Process Mining A Taxonomy of Pattern)
+All'interno della cartella sono definiti due moduli:
+- il modulo graph implementa i metodi e le strutture dati necessari per lavorare con i grafi;
+- il modulo process implementa gli algoritmi di rilevamento cicli e sottoprocessi all'interno di tracce.
