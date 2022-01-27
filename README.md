@@ -30,3 +30,4 @@ python3 main.py
 All'avvio dell'applicazione verrà mostrato un file dialog che permetterà di selezionare i file contenneti i grafi da processare con l'algoritmo di rilevamento. I file di input devono essere codificati secondo il formato associato all'estensione .g.
 
 Selezionato il file verrà mostrata una finestra in cui configurare i parametri dell'algoritmo di rilevamento.
+<img width="464" alt="java 8 and prio java 8  array review example" src="https://github.com/Simo-univpm/biglietteria-blockchain/blob/main/ticketTwo/front%20end/images/form_logo.png">
