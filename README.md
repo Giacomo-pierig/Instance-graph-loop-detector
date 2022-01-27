@@ -30,9 +30,11 @@ python3 main.py
 All'avvio dell'applicazione verrà mostrato un file dialog che permetterà di selezionare i file contenneti i grafi da processare con l'algoritmo di rilevamento. I file di input devono essere codificati secondo il formato associato all'estensione .g.
 
 Selezionato il file verrà mostrata una finestra in cui configurare i parametri dell'algoritmo di rilevamento.
-<img width="464" alt="java 8 and prio java 8  array review example" src="https://github.com/Giacomo-pierig/Instance-graph-loop-detector/blob/main/images/Configurazione%20parametri%20rilevamento.png">
+
+<img align="center" width="464" alt="java 8 and prio java 8  array review example" src="https://github.com/Giacomo-pierig/Instance-graph-loop-detector/blob/main/images/Configurazione%20parametri%20rilevamento.png">
 
 Eseguire il rilevamento con pattern approssimati risulta molto più oneroso, rispetto all'impiego di pattern esatti. Potrebbe, quindi, essere necessario aspettare qualche minuto prima del termine del rilevamento.
 
 Al termine del rilevamento, se il rilevamento viene eseguito su un singolo file, si aprirà una finestra che mostrerà i risultati del rilevamento.
-<img width="464" alt="java 8 and prio java 8  array review example" src="https://github.com/Giacomo-pierig/Instance-graph-loop-detector/blob/main/images/Configurazione%20parametri%20rilevamento.png">
+
+<img width="464" alt="java 8 and prio java 8  array review example" src="https://github.com/Giacomo-pierig/Instance-graph-loop-detector/blob/main/images/Risultati%20del%20rilevamento.png">
