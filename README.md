@@ -31,10 +31,10 @@ All'avvio dell'applicazione verrà mostrato un file dialog che permetterà di se
 
 Selezionato il file verrà mostrata una finestra in cui configurare i parametri dell'algoritmo di rilevamento.
 
-<p align="center"><img width="364" alt="java 8 and prio java 8  array review example" src="https://github.com/Giacomo-pierig/Instance-graph-loop-detector/blob/main/images/Configurazione%20parametri%20rilevamento.png"></p>
+<p align="center"><img width="350" alt="java 8 and prio java 8  array review example" src="https://github.com/Giacomo-pierig/Instance-graph-loop-detector/blob/main/images/Configurazione%20parametri%20rilevamento.png"></p>
 
 Eseguire il rilevamento con pattern approssimati risulta molto più oneroso, rispetto all'impiego di pattern esatti. Potrebbe, quindi, essere necessario aspettare qualche minuto prima del termine del rilevamento.
 
 Al termine del rilevamento, se il rilevamento viene eseguito su un singolo file, si aprirà una finestra che mostrerà i risultati del rilevamento.
 
-<img width="600" alt="java 8 and prio java 8  array review example" src="https://github.com/Giacomo-pierig/Instance-graph-loop-detector/blob/main/images/Risultati%20del%20rilevamento.png">
+<p align="center"><img width="620" alt="java 8 and prio java 8  array review example" src="https://github.com/Giacomo-pierig/Instance-graph-loop-detector/blob/main/images/Risultati%20del%20rilevamento.png"></p>
