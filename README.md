@@ -41,12 +41,12 @@ Al termine del rilevamento, se il rilevamento viene eseguito su un singolo file,
 
 <p align="center"><img width="620" alt="java 8 and prio java 8  array review example" src="https://github.com/Giacomo-pierig/Instance-graph-loop-detector/blob/main/images/Risultati%20del%20rilevamento.png"></p>
 
-Lanciando il seguente comando l'applicazione legge il grafo d'istanza dal file passato per parametro, individua i cicli e genera una rete di petri che viene salvata sulla destinazione specificata:
+Lanciando il seguente comando, l'applicazione legge il grafo d'istanza dal file passato per parametro, individua i cicli al suo interno e genera una rete di petri che viene salvata sulla destinazione specificata:
 ```
 python3 loop_detector.py detect <nome_file_input> <output_directory>
 ```
 
-Lanciando il seguente comando l'applicazione visualizza sullo schermo il grafo d'istanza contenuto nel file passato per parametro.
+Lanciando il seguente comando, l'applicazione visualizza sullo schermo il grafo d'istanza contenuto nel file passato per parametro.
 ```
 python3 loop_detector.py show <nome_file_input>
 ```
