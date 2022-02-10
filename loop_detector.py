@@ -38,7 +38,7 @@ else:
 
             # Salva il risultato del rilevamento su file
 
-            new_graph.exportAsPNML(argv[2].split("/")[-1],argv[3])
+            new_graph.exportAsPNML(argv[2].split("/")[-1].replace(".g",""),argv[3])
         
         case "show":
 
