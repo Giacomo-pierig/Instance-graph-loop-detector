@@ -50,3 +50,4 @@ Lanciando il seguente comando, l'applicazione visualizza sullo schermo il grafo 
 ```
 python3 loop_detector.py show <nome_file_input>
 ```
+ 
