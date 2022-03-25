@@ -50,4 +50,9 @@ Lanciando il seguente comando, l'applicazione visualizza sullo schermo il grafo 
 ```
 python3 loop_detector.py show <nome_file_input>
 ```
+
+Lanciando il seguente comando, l'applicazione esegue l'algoritmo di rilevamento dei cicli sul grafo d'istanza contenuto nel file passato per parametro, genera la corrispondente rete di Petri e verifica la sua correttezza. In particolare, si va a valutare la soundness del modello e si controlla se l'insieme delle tracce generato dal grafo di partenza sia equivalente a quello generato dalla rette di Petri ottenuta dopo il rilevamento.
+```
+python3 loop_detector.py test <nome_file_input>
+```
  
